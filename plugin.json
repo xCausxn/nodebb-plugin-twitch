@@ -1,8 +1,8 @@
 {
 	"id": "nodebb-plugin-twitch",
 	"name": "NodeBB Twitch Plugin",
-	"description": "NodeBB Plugin that allows users to embed Twitch videos inline in their posts.",
-	"url": "https://github.com/psychobunny/nodebb-plugin-youtube",
+	"description": "NodeBB Plugin that allows users to embed Twitch Streams inline in their posts.",
+	"url": "https://github.com/xCausxn/nodebb-plugin-twitch",
 	"library": "./library.js",
 	"hooks": [
 		{
