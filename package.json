@@ -1,0 +1,52 @@
+{
+  "name": "nodebb-plugin-twitch",
+  "version": "1.0.0",
+  "description": "NodeBB Twitch Plugin",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/psychobunny/nodebb-plugin-youtube"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "twitch",
+    "video",
+    "embed"
+  ],
+  "author": {
+    "name": "xCausxn",
+    "email": "xCausxn@hotmail.co.uk"
+  },
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-twitch/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0"
+  },
+  "_id": "nodebb-plugin-twitch@1.0.0",
+  "_from": "nodebb-plugin-twitch@1.0.0",
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-twitch",
+  "dist": {
+    "shasum": "2b7cd7a09bfc090132cc2e45d4c7ec2acd09e74b",
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-youtube/-/nodebb-plugin-youtube-0.1.1.tgz"
+  },
+  "_npmVersion": "1.4.3",
+  "_npmUser": {
+    "name": "psychobunny",
+    "email": "psycho.bunny@hotmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "psychobunny",
+      "email": "psycho.bunny@hotmail.com"
+    }
+  ],
+  "directories": {},
+  "_shasum": "2b7cd7a09bfc090132cc2e45d4c7ec2acd09e74b",
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-youtube/-/nodebb-plugin-youtube-0.1.1.tgz"
+}
