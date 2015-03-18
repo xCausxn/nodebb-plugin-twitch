@@ -8,9 +8,9 @@ This NodeBB plugin allows users to embed Twitch Streams and Multi Twitch Streams
 
 ## Usage
 
-http://www.twitch.tv/CHANNEL
+    http://www.twitch.tv/CHANNEL
 
-http://multitwitch.tv/CHANNEL/CHANNEL
+    http://multitwitch.tv/CHANNEL/CHANNEL
 
 ## Screenshots
 Twitch Single
