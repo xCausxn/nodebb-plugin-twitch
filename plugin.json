@@ -1,15 +1,12 @@
 {
 	"id": "nodebb-plugin-twitch",
 	"name": "NodeBB Twitch Plugin",
-	"description": "NodeBB Plugin that allows users to embed Twitch Streams inline in their posts.",
+	"description": "NodeBB Plugin that allows users to embed Twitch Streams inline in their posts. Including Multitwitch",
 	"url": "https://github.com/xCausxn/nodebb-plugin-twitch",
 	"library": "./library.js",
 	"hooks": [
 		{
 			"hook": "filter:parse.post", "method": "parse", "priority": 6
 		}
-	],
-	"css": [
-		"static/style.css"
 	]
 }

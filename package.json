@@ -1,6 +1,6 @@
 {
   "name": "nodebb-plugin-twitch",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "NodeBB Twitch Plugin",
   "main": "library.js",
   "scripts": {
@@ -14,6 +14,7 @@
     "nodebb",
     "plugin",
     "twitch",
+    "multitwitch",
     "video",
     "embed"
   ],
@@ -25,10 +26,10 @@
   "nbbpm": {
     "compatibility": "^0.6.0"
   },
-  "_from": "nodebb-plugin-twitch@1.0.3",
+  "_from": "nodebb-plugin-twitch@1.0.4",
   "homepage": "https://github.com/xCausxn/nodebb-plugin-twitch",
   "dist": {
-    "tarball": "http://registry.npmjs.org/nodebb-plugin-twitch/-/nodebb-plugin-twitch-1.0.3.tgz"
+    "tarball": "http://registry.npmjs.org/nodebb-plugin-twitch/-/nodebb-plugin-twitch-1.0.4.tgz"
   },
   "_npmVersion": "1.4.3",
   "_npmUser": {
@@ -39,5 +40,5 @@
     "xCausxn <xCausxn@hotmail.co.uk>"
   ],
   "directories": {},
-  "_resolved": "https://registry.npmjs.org/nodebb-plugin-twitch/-/nodebb-plugin-twitch-1.0.3.tgz"
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-twitch/-/nodebb-plugin-twitch-1.0.4.tgz"
 }
